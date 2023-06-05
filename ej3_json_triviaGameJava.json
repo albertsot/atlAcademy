@@ -1,0 +1,37 @@
+{
+  "questions": [
+    {
+      "question": "¿Cuál es el resultado de la siguiente expresión en Java?\nint x = 5;\nint y = 2;\nint resultado = x % y;",
+      "options": [
+        "1",
+        "2",
+        "2.5",
+        "0"
+      ],
+      "correctAnswer": "1",
+      "explanation": "El operador de módulo (%) en Java devuelve el resto de la división entera. En este caso, 5 dividido por 2 es igual a 2, con un resto de 1, por lo que el resultado de la expresión es 1."
+    },
+    {
+      "question": "¿Cuál es la salida de este código en Java?\nString str = \"Hello World!\";\nSystem.out.println(str.length());",
+      "options": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "correctAnswer": "12",
+      "explanation": "El método length() en Java devuelve la longitud de una cadena, contando cada carácter. En este caso, la cadena \"Hello World!\" tiene 12 caracteres, por lo que la salida del código es 12."
+    },
+    {
+      "question": "¿Cuál de los siguientes no es un tipo de datos primitivo en Java?",
+      "options": [
+        "int",
+        "boolean",
+        "String",
+        "float"
+      ],
+      "correctAnswer": "String",
+      "explanation": "En Java, los tipos de datos primitivos son aquellos que representan valores simples, como enteros, booleanos y números de coma flotante. El tipo de dato String es una clase en Java y no es considerado un tipo de dato primitivo."
+    }
+  ]
+}
