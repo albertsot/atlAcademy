@@ -1,0 +1,60 @@
+{
+   "teamName":"AVAJ",
+   "numero":8,
+   "integrantes":[
+      {
+         "nombre":"Cristian Mansilla",
+         "conocimientos":[
+            "JAVA",
+            "HTML",
+            "CSS",
+            "JS"
+         ],
+         "pais":"Argentina"
+      },
+      {
+         "nombre":"Maria",
+         "conocimientos":[
+            "java"
+         ],
+         "pais":"España"
+      },
+      {
+         "nombre":"Baigorria Damian",
+         "conocimientos":[
+            "JAVA",
+            "HTML",
+            "CSS",
+            "JS"
+         ],
+         "pais":"Argentina"
+      },
+      {
+         "nombre":"Mayi Contreras",
+         "conocimientos":[
+            "JAVA",
+            "GIT"
+         ],
+         "pais":"Argentina"
+      },
+      {
+         "nombre":"Edwin Paucar",
+         "conocimientos":[
+            "JAVA",
+            "GIT",
+            "Python"
+         ],
+         "pais":"Peru"
+      },
+      {
+         "nombre":"Luis Soto",
+         "conocimientos":[
+            "JAVA",
+            "SpringBoot",
+            "Angular",
+            "GIT"
+         ],
+         "pais":"Peru"
+      }
+   ]
+}
